@@ -178,11 +178,3 @@ setdiff(unique(T3$CCG),unique(T4$CCG)) # Any CCGs missing will show here
 rm(list = c("cols.num","OrgHier","T1","T2","RC","CheckRC","CheckTot"))
 
 
-# a good check is to open the "qipp_Raw_Num.xlsx" file and ensure that the correct number of 'TOTAL Unidentified' 
-# records is the same as the total number of CCGs files you have loaded
-# This should be the final row in every table for every CCG
-
-
-# This needs to be here
-
-
